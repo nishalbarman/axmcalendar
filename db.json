@@ -7,22 +7,9 @@
     "start_gap": {
       "Bohag": {
         "index" : {
-          "value" : 5,
+          "value" : 5
          }
-        "Events": {
-        
       }
-      "Jeth" : 1,
-      "Ahar" : 4,
-      "Shaon" : 1,
-      "Vada" : 4,
-      "Ahin" : 7,
-      "Kati" : 3,
-      "Aghon" : 5,
-      "Puh" : 5,
-      "Magh" : 7,
-      "Fagun" : 2,
-      "Shot" : 4
     }
   }
 }
